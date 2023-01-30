@@ -28,16 +28,16 @@ Connect me:
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
 ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)
 ![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)
-![Vite](https://img.shields.io/badge/vite-3DDC84?logo=Vite)
-![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)
+![Vite](https://img.shields.io/badge/-vite-3DDC84?logo=Vite)
+![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm)
 ![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)
 
 - 💻 I work using: 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/-MySQL-7A1FA2?style=plastic&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-20232A?logo=docker)
+![MySQL](https://img.shields.io/badge/-MySQL-7A1FA2?style=plastic&logo=mysql)
 
 - ⚙️ I also use and work: 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
@@ -45,14 +45,14 @@ Connect me:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3) 
-![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)
-![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061) 
-![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000) 
+![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx)
+![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins) 
+![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux) 
 
 - 🌱 I’m currently learning:
-![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)
+![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8)
 ![Java](https://img.shields.io/badge/-Java-02569B?logo=Java) 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes) 
 
 
 ## My Skill Set  
